@@ -1,3 +1,11 @@
+# Solutions
+
+The solutions to [evm-puzzles](https://github.com/fvictorio/evm-puzzles) you can find in the `master` branch. 
+
+The solutions to [more-evm-puzzles](https://github.com/daltyboy11/more-evm-puzzles) you can find in the `more-evm-puzzles-solutions` branch.
+
+
+=======================================
 # EVM puzzles
 
 A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
